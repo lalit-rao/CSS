@@ -1,0 +1,16 @@
+/* p,h1
+{
+    color:aquamarine;
+}
+
+li{
+    list-style: square;
+} */
+
+.special{
+    color: rgb(237, 19, 19);
+    font-weight: bold;
+}
+h1{
+    color: rgb(rgb(15, 15, 68), rgba(233, 7, 187, 0.521), blue);
+}
